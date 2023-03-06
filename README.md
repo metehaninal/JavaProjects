@@ -5,4 +5,4 @@ This is the *Simple Chatty Bot* project I made myself.
 
 Here's the link to the project: https://hyperskill.org/projects/113
 
-Check out my profile: https://hyperskill.org/profile/403329221
+Check out my profile: https://hyperskill.org/profile/403329221# JavaProjects
